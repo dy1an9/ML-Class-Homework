@@ -28,3 +28,12 @@ The first homework of machine learning class at BUAA, 2017 .
 
 ## 作业提交
 将模型代码、实验报告、测试结果打包，命名格式：学号+名字，在校历**第11周周二之前**发送到助教邮箱jianglai.china@aliyun.com
+
+
+## 机器学习课大作业---手写字体的识别
+-------
+实现方式：Python  
+
+主要的参考文献：[http://neuralnetworksanddeeplearning.com/chap1.html]  
+
+正确率正在提升中！
