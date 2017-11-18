@@ -31,7 +31,7 @@ The first homework of machine learning class at BUAA, 2017 .
 
 
 ## 机器学习课大作业---手写字体的识别
--------
+
 实现方式：Python  
 
 主要的参考文献：[http://neuralnetworksanddeeplearning.com/chap1.html]  
